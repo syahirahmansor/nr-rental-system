@@ -24,6 +24,7 @@ This project is a web-based application for managing non-resident rental houses.
 
 ## Screenshot of the System
 <h3>Landing Page</h3>
+
 ![landing-page](LandingPage1.png)
 ![landing-page](LandingPage2.png)
 ![landing-page](LandingPage3.png)
