@@ -18,9 +18,9 @@ This project is a web-based application for managing non-resident rental houses.
 > - php artisan serve  
 
 ## Credentials
-> - Admin : admin@demo.com || 123456  
-> - Landlord : landlord@demo.com || 123456  
-> - Tenant : tenant@demo.com || 123456  
+> - Admin : admin@nrhome.com || 12345678  
+> - Landlord : syahirah25@gmail.com || 12345678 
+> - Tenant : 2023165409@student.uitm.edu.my || 2023165409  
 
 ## Screenshot of the System
 <h3>Landing Page</h3>
