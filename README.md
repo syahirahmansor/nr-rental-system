@@ -24,30 +24,41 @@ This project is a web-based application for managing non-resident rental houses.
 
 ## Screenshot of the System
 <h3>Landing Page</h3>
-
+![landing-page](LandingPage1.png)
 ![landing-page](LandingPage2.png)
+![landing-page](LandingPage3.png)
+
+<h3>Login & Register Page</h3>
+
+![login-page](LoginPage.png)
+![register-page](RegisterPage.png)
+
 
 <h3>Property Listing Page</h3>
 
-![property-listing](https://via.placeholder.com/800x400?text=Property+Listing)
+![property-listing](PropertyListing.png)
+
+<h3>Add Property Page</h3>
+
+![property-add](AddProperty.png)
 
 <h3>Admin Dashboard</h3>
 
-![admin-dashboard](https://via.placeholder.com/800x400?text=Admin+Dashboard)
+![admin-dashboard](AdminDashboard.png)
 
 <h3>Landlord Dashboard</h3>
 
-![landlord-dashboard](https://via.placeholder.com/800x400?text=Landlord+Dashboard)
+![landlord-dashboard](LandlordDashboard.png)
 
-<h3>Tenant Dashboard</h3>
+<h3>Student Dashboard</h3>
 
-![tenant-dashboard](https://via.placeholder.com/800x400?text=Tenant+Dashboard)
+![student-dashboard](StudentDashboard.png)
 
 ## Features
 - Property listing and search  
 - Digital watermarking for rental documents  
-- Recommender algorithm for tenant property suggestions  
-- Role-based dashboards (Admin, Landlord, Tenant)  
+- Recommender algorithm for student property suggestions  
+- Role-based dashboards (Admin, Landlord, Student)  
 - Booking and rental management  
 
 ## License
